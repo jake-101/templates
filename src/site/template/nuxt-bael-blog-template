@@ -1,0 +1,16 @@
+---
+title: Bael Blog Theme with Serverless Email Newsletter Signup
+repo: URL of git repository for this template
+stack: (optional) List the stack arguments that Netlify will use with the DTN button. eg: cms
+preview: {filename for preview image}
+example: https://bael-theme.jake101.com/
+tags:
+  - nuxt
+  - vue
+  - blog
+  - functions
+  - sendgrid
+---
+
+Bael runs using [Nuxt.js](https://nuxtjs.org), [Vue.js](https://vuejs.org), [Netlify CMS](https://netlifycms.org), and is hosted by [Netlify](https://netlify.com). Bael requires an account with Netlify and Github/Gitlab to deploy.
+Made by [jake101](https://jake101.com)
